@@ -877,3 +877,9 @@ TopDownProject/Logs/shadercompiler-AssetImportWorker0.log
 TopDownProject/Logs/shadercompiler-UnityShaderCompiler.exe0.log
 TopDownProject/Temp/UnityLockfile
 TopDownProject/Temp/workerlic
+
+/Library/*/*
+/Library/*/*
+/Library/**/**
+/Library/**/*
+
